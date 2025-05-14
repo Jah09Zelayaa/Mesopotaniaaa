@@ -80,6 +80,9 @@ font-size: 20px;
 	form {
 		padding: 10px;
 	}
+	padding {
+		width:15%
+	}
 
 	
 }
